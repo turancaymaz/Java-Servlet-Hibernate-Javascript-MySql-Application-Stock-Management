@@ -1,4 +1,4 @@
-# Java-Servlet-Hibernate-Javascript-MySql-Application-Stock-Management
+# Java Servlet Hibernate Javascript MySql Application Stock Management
 
 Bu proje Java, Hibernate, Servlet, JavaScript ve MySQL yazılımlarını kullanarak bir stok yönetim web uygulamasıdır. Kullanıcı girişi ve beni hatırla seçeneği mevcuttur. Ekleme, silme, güncelleme ve listeleme işlemleri bulunmaktadır. Stoklarda ki ürünlerde miktar kontrolü yapılmaktadır. Satış işleminde sepete ekleme  seçeneği mevcuttur. Sipariş tamamla olmadığı sürece sepette ürünler durmaktadır. Otomatik oluşturulan bir fiş numarası üstünden veritabanına toplam miktar kaydedilir ve kişi sepetinde ki ürünler için alış işlemini gerçekleştirir.
 
