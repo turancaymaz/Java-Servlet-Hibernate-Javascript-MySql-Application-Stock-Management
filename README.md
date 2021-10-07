@@ -20,7 +20,7 @@ Bu proje Java, Hibernate, Servlet, JavaScript ve MySQL yazılımlarını kullana
 <img src="https://github.com/turancaymaz/Java-Servlet-Hibernate-Javascript-MySql-Application-Stock-Management/blob/main/project-image/Depo%20projesi-page-2.jpg" width="200" style="max-width:100%;"></a>
 
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Hibernate-Javascript-MySql-Application-Stock-Management/blob/main/project-image/Depo%20projesi-page-3.jpgg" target="_blank">
+<a href="https://github.com/turancaymaz/Java-Servlet-Hibernate-Javascript-MySql-Application-Stock-Management/blob/main/project-image/Depo%20projesi-page-3.jpg" target="_blank">
 <img src="https://github.com/turancaymaz/Java-Servlet-Hibernate-Javascript-MySql-Application-Stock-Management/blob/main/project-image/Depo%20projesi-page-3.jpg" width="200" style="max-width:100%;"></a>
   
   
